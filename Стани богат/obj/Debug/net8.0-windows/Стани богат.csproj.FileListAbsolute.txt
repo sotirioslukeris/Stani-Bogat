@@ -1,0 +1,22 @@
+C:\Users\banan\source\repos\Стани богат\Стани богат\bin\Debug\net8.0-windows\Стани богат.exe
+C:\Users\banan\source\repos\Стани богат\Стани богат\bin\Debug\net8.0-windows\Стани богат.deps.json
+C:\Users\banan\source\repos\Стани богат\Стани богат\bin\Debug\net8.0-windows\Стани богат.runtimeconfig.json
+C:\Users\banan\source\repos\Стани богат\Стани богат\bin\Debug\net8.0-windows\Стани богат.dll
+C:\Users\banan\source\repos\Стани богат\Стани богат\bin\Debug\net8.0-windows\Стани богат.pdb
+C:\Users\banan\source\repos\Стани богат\Стани богат\obj\Debug\net8.0-windows\Стани_богат.Form1.resources
+C:\Users\banan\source\repos\Стани богат\Стани богат\obj\Debug\net8.0-windows\Стани_богат.Properties.Resources.resources
+C:\Users\banan\source\repos\Стани богат\Стани богат\obj\Debug\net8.0-windows\Стани богат.csproj.GenerateResource.cache
+C:\Users\banan\source\repos\Стани богат\Стани богат\obj\Debug\net8.0-windows\Стани богат.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banan\source\repos\Стани богат\Стани богат\obj\Debug\net8.0-windows\Стани богат.AssemblyInfoInputs.cache
+C:\Users\banan\source\repos\Стани богат\Стани богат\obj\Debug\net8.0-windows\Стани богат.AssemblyInfo.cs
+C:\Users\banan\source\repos\Стани богат\Стани богат\obj\Debug\net8.0-windows\Стани богат.csproj.CoreCompileInputs.cache
+C:\Users\banan\source\repos\Стани богат\Стани богат\obj\Debug\net8.0-windows\Стани богат.dll
+C:\Users\banan\source\repos\Стани богат\Стани богат\obj\Debug\net8.0-windows\refint\Стани богат.dll
+C:\Users\banan\source\repos\Стани богат\Стани богат\obj\Debug\net8.0-windows\Стани богат.pdb
+C:\Users\banan\source\repos\Стани богат\Стани богат\obj\Debug\net8.0-windows\Стани богат.genruntimeconfig.cache
+C:\Users\banan\source\repos\Стани богат\Стани богат\obj\Debug\net8.0-windows\ref\Стани богат.dll
+C:\Users\banan\source\repos\Стани богат\Стани богат\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\banan\source\repos\Стани богат\Стани богат\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\banan\source\repos\Стани богат\Стани богат\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\banan\source\repos\Стани богат\Стани богат\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\banan\source\repos\Стани богат\Стани богат\obj\Debug\net8.0-windows\Стани богат.csproj.ResolveComReference.cache
